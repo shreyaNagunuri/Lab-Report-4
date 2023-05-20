@@ -11,6 +11,7 @@ For this lab report I had to recreate some tasks and log the keys that I used to
 9. Commit and push the resulting change to your Github account (you can pick any commit message!)
 
 Steps 1-3) For these steps, I didn't have to log anything since these were all basic set up for the following tasks. 
+
 Step 4) Log into ieng6
 The keys that I pressed to get to this step are ssh `<space>` cs15lsp23ml@ieng6.ucsd.edu `<enter>`
 The command ssh allows me to gain access into the remote desktop and the log string of text is my username. 
