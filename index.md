@@ -16,7 +16,7 @@ The keys that I pressed to get to this step are ssh `<space>` cs15lsp23ml@ieng6.
 The command ssh allows me to gain access into the remote desktop and the log string of text is my username. 
 Note that I didn’t need to use my password to log in because I have configured the desktop to not need it when logging in. 
 
-![Image](Log_in_ssh.png)
+![Image](Log_In_ssh.png)
 
 Step 5)Clone your fork of the repository from your Github account
 To accomplish this task I typed:
